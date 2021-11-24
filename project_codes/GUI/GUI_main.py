@@ -19,10 +19,10 @@ import time
 
 # Database Configuration
 DB_IP = '172.105.205.179'
-DB_USER = 'root'
-DB_PASSWORD = 'mitlab123456'
+DB_USER = 'your user'
+DB_PASSWORD = 'your password'
 DB_PORT = 3306
-DB_DATABASE = 'WordDB'
+DB_DATABASE = 'your database'
 
 # Path Configuration
 currentPath = os.path.dirname(__file__) # GUI
